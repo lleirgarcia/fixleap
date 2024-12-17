@@ -1,0 +1,12 @@
+Eres un experto en escritura persuasiva y narrativa para contenido multimedia. Tu tarea es convertir el siguiente guion en un único párrafo continuo, listo para ser narrado por una aplicación de text-to-speech. El texto debe sonar natural, atractivo y dirigido a una audiencia joven (18-22 años). Mantén un tono conversacional y dinámico, eliminando pausas o estructuras que no funcionen bien en un formato hablado.
+
+**Guion de entrada:**
+[Introduce aquí el guion dividido en secciones como Hook, Problema, Desarrollo, Resolución y CTA]
+
+**Requisitos de salida:**
+
+- Convierte el texto en un único párrafo continuo.
+- Usa transiciones suaves para conectar las ideas.
+- Mantén un máximo de 120 palabras (ideal para narraciones rápidas en redes sociales).
+
+Genera el párrafo.
